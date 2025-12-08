@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Dimitrije, Software Engineer & CS Student
 
-<!--
-**djovanovic12/djovanovic12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about ...
+I enjoy building things that are fast, reliable, and clean — whether it's a C project, a Python tool, or an Unreal Engine prototype.
 
-Here are some ideas to get you started:
+🔧 Technologies & Tools
+Languages: C, Python, Java, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests: Machine Learning, Distributed Systems, Game Development (UE5), Data Engineering
+
+Other: ...
+
+📌 What I'm Currently Working On
+- Learning advanced systems topics (parallelism, IPC, scheduling…)
+- ML-related projects and data models
+- Experimenting with Unreal Engine (survival horror prototype)
+
+📫 Contact
+Portfolio (coming soon)
+LinkedIn: ...
+GitHub: you're already here 👀
+
+⚡ Fun fact
+When I’m not coding, I’m probably in the gym, watching netflix or building fragrance/anime tier lists.
