@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dimitrije — Software Engineer & CS Student
+# 👋 Hi, I'm Dimitrije - Software Engineer & CS Student
 
 Passionate about **machine learning systems, backend engineering, and data-driven software development**.  
 I enjoy building things that are **fast, reliable, and clean** — whether it's a C project, a Python tool, or an Unreal Engine prototype.
@@ -27,4 +27,4 @@ I enjoy building things that are **fast, reliable, and clean** — whether it's 
 ---
 
 ## ⚡ Fun fact
-When I’m not coding, I’m probably at the gym, watching Netflix, or making fragrance/anime tier lists.
+When I’m not coding, I’m probably at the gym, watching Netflix, or making fragrance tier lists.
